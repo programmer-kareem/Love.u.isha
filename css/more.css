@@ -1,0 +1,45 @@
+#bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: .8;
+    background-repeat: no-repeat;
+    background-image: url(../img/bg.webp);
+    background-size: cover;
+    background-position: center;
+    -webkit-filter: blur(4px);
+    z-index: 0;
+}
+
+.content {
+    position: relative;
+    z-index: 3;
+}
+
+header h2 {
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
+    text-align: center;
+    color: cyan;
+    margin-top: 30px;
+}
+
+header h4 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: chartreuse;
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width: 500px) {
+    header h2 {
+        font-size: 40px;
+    }
+    header h4 {
+        font-size: 18px;
+        padding: 10px;
+    }
+}
