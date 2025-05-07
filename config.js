@@ -17,7 +17,7 @@ reply: 'Kyuki aap aap ho, aur sirf yahi mere liye kaafi hai.',
 
 mess: 'Mujhe Pata tha aap samjhogi😌 mera ye dil aapka h💝',
 messDesc: `Now your question: "Me apke liye kya krskta hun?"
-Everything which I can. jab aap akela feel krogi to aapke sath rahunga, jab aap udaas hogi to aapko hasaunga, jab aap ro rhi hogi to aapko manaunga, aur jab aap khush hogi to aapke dimagh ka khichdi banaunga. I'll be always there for you💖`,
+Everything that I can do. jab aap akela feel krogi to aapke sath rahunga, jab aap udaas hogi to aapko hasaunga, jab aap ro rhi hogi to aapko manaunga, aur jab aap khush hogi to aapke dimagh ka khichdi banaunga. I'll be always there for you💖`,
 
 btnAccept: 'I’m yours <3',
 messLink: 'more.html'
